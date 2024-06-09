@@ -11,6 +11,8 @@ function App() {
     <>
       <UserContextProvider>
         <h1>Context API in React</h1>
+        <Login />
+        <Profile />
       </UserContextProvider>
     </>
   )
